@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data 
 - 🌱 I’m currently learning Data Analysis
 - 💞️ I’m looking towards Data Analyst Roles
-- 📫 Reach me on LinkedIn:- www.linkedin.com/in/iliyas-shaikh-342204214
+- 📫 Reach me on LinkedIn:- https://www.linkedin.com/in/iliyas-shaikh-sidsplay/
 
 
 <!---
